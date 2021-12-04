@@ -1,7 +1,9 @@
+
+<div align="center">
 <img src="/Images/img2.png" alt="spotDL"/>
-
+  
 It is the windows batch script which can remove bloatware apps from your android device (specially vivo)
-
+</div>
 
 ## Installation
 
