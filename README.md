@@ -3,18 +3,19 @@
 It is the windows batch script which can remove bloatware apps from your android device (specially vivo)
 
 
-## Installaion
+## Installation
 
 1. Download and Extract the zip file. 
 2. Get into the extracted folder.
 
 
 ## Usage
-![img](https://user-images.githubusercontent.com/80062969/144720033-88d4c3f4-a41a-48eb-8dcc-307487e9c5af.png)
 
 1. Run the CLICKHERE.bat file.
 
 ## Features
+
+![img](https://user-images.githubusercontent.com/80062969/144720033-88d4c3f4-a41a-48eb-8dcc-307487e9c5af.png)
 
 1. Removes Vivo apps (Specially Bloatware Apps)
 2. Removes Google Assistant, Google Movie, Google Play Music, Google Duo 
