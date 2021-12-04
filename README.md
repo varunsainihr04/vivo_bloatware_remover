@@ -11,7 +11,9 @@ It is the windows batch script which can remove bloatware apps from your android
 
 ## Usage
 
-1. Run the CLICKHERE.bat file.
+1. Enable USB debugging in the Android Mobile (Setting>Additional settings>Developer Options>Usb Debugging)
+2. Run the CLICKHERE.bat file.
+3. Allow the popup came on Mobile.
 
 ## Features
 
