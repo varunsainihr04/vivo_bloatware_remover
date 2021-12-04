@@ -1,6 +1,6 @@
 # Vivo-Bloatware-Remover
 
-It is the windows batch script or tool which you can use to remove bloatware apps from your dveice (specially vivo)
+It is the windows batch script which can remove bloatware apps from your android device (specially vivo)
 
 
 ## Installaion
@@ -10,9 +10,9 @@ It is the windows batch script or tool which you can use to remove bloatware app
 
 
 ## Usage
+![img](https://user-images.githubusercontent.com/80062969/144720033-88d4c3f4-a41a-48eb-8dcc-307487e9c5af.png)
 
 1. Run the CLICKHERE.bat file.
-
 
 ## Features
 
@@ -23,6 +23,7 @@ It is the windows batch script or tool which you can use to remove bloatware app
 5. Removes Imanager (Only Imanager)
 6. Removes Touchpal Keyboard Completely
 
+> **_Option 2 Works For All Android Devices_**
 
 ## Important Note
 
