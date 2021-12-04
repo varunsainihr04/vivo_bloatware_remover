@@ -26,7 +26,7 @@ It is the windows batch script or tool which you can use to remove bloatware app
 
 ## Important Note
 
-If yo want to recover the deleted files or Disabled apps or pakages
+If you want to recover the deleted files or Disabled apps or pakages
 
 - Root User ==> Go to google and download the app.
 - Non-root User ==> Reset your Device or download the app from the Internet.
