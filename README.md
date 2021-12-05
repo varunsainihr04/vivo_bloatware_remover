@@ -19,7 +19,7 @@ It is the windows batch script which can remove bloatware apps from your android
 
 ## Features
 
-<img src=""/>
+<img src="/Images/img.png" width="700"/>
 
 1. Removes Vivo apps (Specially Bloatware Apps)
 2. Removes Google Assistant, Google Movie, Google Play Music, Google Duo 
@@ -40,5 +40,5 @@ If you want to recover the deleted files or Disabled apps or pakages
 
 ## Error
 
-If the you face any error while connecting your devices just download and install [google adb adb driver](https://developer.android.com/studio/run/win-usb) from the internet.
+If the you face any error while connecting your devices just download and install [google adb adb driver](https://developer.android.com/studio/run/win-usb) in your pc.
 
