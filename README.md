@@ -19,7 +19,7 @@ It is the windows batch script which can remove bloatware apps from your android
 
 ## Features
 
-<img src="/Images/"/>
+<img src="/Images/img.png"/>
 
 1. Removes Vivo apps (Specially Bloatware Apps)
 2. Removes Google Assistant, Google Movie, Google Play Music, Google Duo 
