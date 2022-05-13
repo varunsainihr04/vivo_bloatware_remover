@@ -32,7 +32,7 @@ It is the windows batch script which can remove bloatware apps from your android
 
 ## Important Note
 
-If you want to recover the deleted files or Disabled apps or pakages
+If you want to recover the deleted or Disabled apps or pakages
 
 - Root User ==> Go to google and download the app.
 - Non-root User ==> Reset your Device or download the app from the Internet.
