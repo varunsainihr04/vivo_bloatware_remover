@@ -1,25 +1,21 @@
 
 <div align="center">
-<img src="/Images/img2.png"/>
-  
-It is the windows batch script which can remove bloatware apps from your android device (specially vivo)
+  <img src="/Images/img2.png"/>
 </div>
 
-## Installation
-
-1. Download and Extract the zip file. 
-2. Get into the extracted folder.
-
+## About
+<p>Windows batch script which can remove bloatware apps from your android device (specially vivo)<p>
 
 ## Usage
 
-1. Enable USB debugging in the Android Mobile *(Setting>Additional settings>Developer Options>Usb Debugging)*
-2. Run the **CLICKHERE.bat** file.
-3. Allow the popup came on Mobile.
+1. Download the Code
+2. Enable USB debugging in the Android Device 
+   <br>*(Setting>Additional settings>Developer Options>Usb Debugging)*
+3. Run **CLICKHERE.bat** file.
+4. Allow the popup came on Mobile.
+5. Follow the steps
 
 ## Features
-
-<img src="/Images/img.png" width="700"/>
 
 1. Removes Vivo apps (Specially Bloatware Apps)
 2. Removes Google Assistant, Google Movie, Google Play Music, Google Duo 
@@ -28,7 +24,8 @@ It is the windows batch script which can remove bloatware apps from your android
 5. Removes Imanager (Only Imanager)
 6. Removes Touchpal Keyboard Completely
 
-> **_Option 2 Works For All Android Devices_**
+## Screenshot
+<img src="/Images/img.png" width="auto"/>
 
 ## Important Note
 
