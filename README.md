@@ -11,7 +11,7 @@
 1. Download the Code
 2. Enable USB debugging in the Android Device 
    <br>*(Setting>Additional settings>Developer Options>Usb Debugging)*
-3. Run _CLICKHERE.bat_ file.
+3. Run _Clickhere.bat_ file.
 4. Allow the popup came on Mobile.
 5. Follow the steps
 
