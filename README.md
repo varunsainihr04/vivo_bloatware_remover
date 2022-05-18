@@ -29,7 +29,7 @@
 
 ## Important Note
 
-If you want to recover the deleted or Disabled apps or pakages
+If you want to recover the deleted or Disabled app or pakage
 
 - Root User ==> Go to google and download the app.
 - Non-root User ==> Reset your Device or download the app from the Internet.
