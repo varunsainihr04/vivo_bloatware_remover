@@ -25,8 +25,10 @@
 6. Removes Touchpal Keyboard Completely
 
 ## Screenshot
-<img src="/Images/img.png" width="auto"/>
+  <img src="/Images/img1.jpg" width="auto"/>
+  <img src="/Images/img2.jpg" width="auto"/>
 
+  
 ## Important Note
 
 If you want to recover the deleted or Disabled app or pakage
@@ -37,5 +39,5 @@ If you want to recover the deleted or Disabled app or pakage
 
 ## Error
 
-If the you face any error while connecting your devices just download and install [google adb adb driver](https://developer.android.com/studio/run/win-usb) in your pc.
+If the you face any error while connecting your android to pc just download and install [google adb adb driver](https://developer.android.com/studio/run/win-usb) in your pc.
 
