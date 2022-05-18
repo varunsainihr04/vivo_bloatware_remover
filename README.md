@@ -1,6 +1,7 @@
 
 <div align="center">
   <img src="/Images/img1.svg" height="200px" width="150px" />
+  <img src="/Images/img2.svg" height="200px" width="150px" />
 </div>
 
 ## About
