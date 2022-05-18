@@ -9,7 +9,7 @@
 ## Usage
 
 1. Download the Code
-2. Enable USB debugging in the Android Device 
+2. Enable USB debugging in Android Device from Developer options
 ```
    Setting > Additional settings > Developer Options > Usb Debugging
 ```
