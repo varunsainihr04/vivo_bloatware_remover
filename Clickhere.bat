@@ -1,6 +1,6 @@
 @echo off
 color 0f
-echo Vivo Bloatware Remover By Varun
+echo                                                   Vivo Bloatware Remover
 echo.
 adb kill-server
 adb start-server
@@ -128,14 +128,14 @@ exit
 :google_app
 echo.
 
-@REM echo Deleting  google
-@REM adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+echo Deleting  google
+adb shell pm uninstall -k --user 0 com.google.android.googlequicksearchbox
 
 @REM echo Deleting Youtube
 @REM adb shell pm uninstall -k --user 0 com.google.android.youtube
 
-@REM echo Deleting  assistant
-@REM adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant
+echo Deleting  assistant
+adb shell pm uninstall -k --user 0 com.google.android.apps.googleassistant
 
 echo Deleting Calender Sync
 adb shell pm uninstall -k --user 0 com.google.android.syncadapters.calendar
