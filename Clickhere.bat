@@ -1,5 +1,5 @@
 @echo off
-color 1f
+color 0f
 echo Vivo Bloatware Remover By Varun
 echo.
 adb kill-server
